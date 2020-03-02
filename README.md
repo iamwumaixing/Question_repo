@@ -35,3 +35,21 @@
 - 数据库并发控制（MVCC）
 - MySQL查询性能优化
 - 数据库表的划分
+
+
+
+### Redis
+
+- Redis速度为什么这么快
+- Redis数据类型
+- Redis使用场景
+- Redis 和 Memcached 比较
+- Redis持久化机制
+- Redis设置过期时间及对过期数据的删除
+- Redis内存淘汰策略
+- 缓存雪崩和缓存穿透的问题
+
+
+
+
+
