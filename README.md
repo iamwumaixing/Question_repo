@@ -51,5 +51,43 @@
 
 
 
+### Java
 
+#### 基础
 
+- 面向过程和面向对象的区别
+- 面向对象三大特性
+- Java 数据类型
+- == 和 equals 方法
+- String、StringBuffer、StringBuilder 比较
+- 在一个静态方法内调用一个非静态成员为什么是非法的
+- hashCode 和 equals 的区别
+- Java中的几个关键字（final、static）
+- Object通用方法
+- 访问修饰符修饰的访问权限范围
+- 反射
+- Java中的异常
+
+#### 容器
+
+- Java中的主要容器
+- 容器中的设计模式
+- 源码分析
+  - ArrayList
+  - Vector
+  - 线程安全的 List 替代方案
+  - CopyOnWriteArrayList
+  - LinkedList
+  - HashMap
+  - ConcurrentHashMap
+
+#### JVM
+
+- JVM的内存结构（内存区域）
+- 对象创建的过程
+- JVM的垃圾回收
+  - 回收过程
+  - 回收策略
+  - 回收算法
+  - 判断对象死亡的方法
+  - 什么对象进入老年代
